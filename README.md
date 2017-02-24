@@ -1,2 +1,2 @@
-## Welcome to our first project
+## Willkommen zu unserem ersten Projekt (Tournament Generator)
 
